@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable-nodpi_podcast_login.png.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable-nodpi/podcast_login.png"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.podcastplayer.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.podcastplayer.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable_play.xml.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable/play.xml"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable_podcast_icon.jpg.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable/podcast_icon.jpg"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.podcastplayer.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/raw_audio_2.mp3.flat",
+        "source": "com.example.podcastplayer.app-main-43:/raw/audio_2.mp3"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable_img_2.png.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable/img_2.png"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "com.example.podcastplayer.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.podcastplayer.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/raw_audio_4.mp3.flat",
+        "source": "com.example.podcastplayer.app-main-43:/raw/audio_4.mp3"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.podcastplayer.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable_pause.xml.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable/pause.xml"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable_img_3.png.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable/img_3.png"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable_img_5.png.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable/img_5.png"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.podcastplayer.app-main-43:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.podcastplayer.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.podcastplayer.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.podcastplayer.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable_podcasts.xml.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable/podcasts.xml"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable_img.png.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable_podcast_background.xml.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable/podcast_background.xml"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable_img_1.png.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable/img_1.png"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable_img_4.png.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable/img_4.png"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.podcastplayer.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/raw_audio_3.mp3.flat",
+        "source": "com.example.podcastplayer.app-main-43:/raw/audio_3.mp3"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/drawable-nodpi_podcast_signup.jpg.flat",
+        "source": "com.example.podcastplayer.app-main-43:/drawable-nodpi/podcast_signup.jpg"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.podcastplayer.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.podcastplayer.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.podcastplayer.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.podcastplayer.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.podcastplayer.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]

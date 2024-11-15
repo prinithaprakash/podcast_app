@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable img
+drawable img_1
+drawable img_2
+drawable img_3
+drawable img_4
+drawable img_5
+drawable pause
+drawable play
+drawable podcast_background
+drawable podcast_icon
+drawable podcast_login
+drawable podcast_signup
+drawable podcasts
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw audio_2
+raw audio_3
+raw audio_4
+string app_name
+string title_activity_login
+string title_activity_main2
+string title_activity_registration
+style Theme.PodcastPlayer
+xml backup_rules
+xml data_extraction_rules
